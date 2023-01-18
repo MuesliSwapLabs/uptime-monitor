@@ -1,5 +1,5 @@
 # Change these first
-owner: muesliswap # Your GitHub organization or username, where this repository lives
+owner: MuesliSwapLabs # Your GitHub organization or username, where this repository lives
 repo: uptime-monitor # The name of this repository
 
 sites:
@@ -12,7 +12,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.muesliswap.com
+  cname: https://status.muesliswap.com
   # baseUrl: /your-repo-name
   logoUrl: https://muesliswap.com/logo512.png
   name: Upptime
