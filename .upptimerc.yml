@@ -13,8 +13,10 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.muesliswap.com 
+  theme: night
   # baseUrl: /your-repo-name
   logoUrl: https://static.muesliswap.com/images/LogoIconLight.svg
+  favicon: https://muesliswap.com/favicon.ico
   name: Muesliswap Status
   introTitle: "**Muesliswap** Status Page"
   introMessage: Real time status page of the Muesliswap website and its services.
