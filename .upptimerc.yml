@@ -14,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.muesliswap.com 
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://static.muesliswap.com/images/LogoIconLight.svg
   name: Muesliswap Status
   introTitle: "**Muesliswap** Status Page"
   introMessage: Real time status page of the Muesliswap website and its services.
