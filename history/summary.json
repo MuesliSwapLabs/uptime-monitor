@@ -4,18 +4,20 @@
     "url": "https://www.muesliswap.com/health.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.muesliswap.com.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 401,
     "timeDay": 401,
     "timeWeek": 401,
     "timeMonth": 401,
     "timeYear": 401,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "API Backend",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.muesliswap.com.ico",
     "slug": "api-backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.56%",
+    "uptimeDay": "97.10%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 1245,
     "timeDay": 1346,
     "timeWeek": 1245,
     "timeMonth": 1245,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 42
     }
   }
 ]
