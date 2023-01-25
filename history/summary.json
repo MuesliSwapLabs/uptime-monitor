@@ -22,7 +22,7 @@
     "url": "https://api.muesliswap.com/list?base-policy-id=&base-tokenname=",
     "icon": "https://icons.duckduckgo.com/ip3/api.muesliswap.com.ico",
     "slug": "api-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1245,
     "timeMonth": 1245,
     "timeYear": 1245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
