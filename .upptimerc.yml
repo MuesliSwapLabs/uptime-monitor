@@ -6,7 +6,9 @@ sites:
   - name: Main Website
     url: https://www.muesliswap.com/health.html
   - name: API Backend
-    url: https://api.muesliswap.com/list?base-policy-id=&base-tokenname=
+    url: https://api.muesliswap.com/health
+  - name: Staking Backend
+    url: https://staking.muesliswap.com/health
 
 
 status-website:
