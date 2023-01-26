@@ -43,19 +43,19 @@
     "url": "https://staking.muesliswap.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/staking.muesliswap.com.ico",
     "slug": "staking-backend",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 711,
-    "timeDay": 753,
-    "timeWeek": 711,
-    "timeMonth": 711,
-    "timeYear": 711,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 672,
+    "timeDay": 693,
+    "timeWeek": 672,
+    "timeMonth": 672,
+    "timeYear": 672,
     "dailyMinutesDown": {
-      "2023-01-26": 0
+      "2023-01-26": 11
     }
   }
 ]
