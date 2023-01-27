@@ -11,6 +11,8 @@ sites:
     url: https://staking.muesliswap.com/health
   - name: Tokens Backend
     url: https://tokens.muesliswap.com/health
+  - name: Onchain Backend
+    url: https://onchain.muesliswap.com/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
