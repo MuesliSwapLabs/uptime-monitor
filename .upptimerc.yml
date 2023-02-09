@@ -5,14 +5,29 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: Main Website
     url: https://www.muesliswap.com/health.html
+    assignees:
+      - TrimVis
+      - chris-r-99
   - name: API Backend
     url: https://api.muesliswap.com/health
+    assignees:
+      - TrimVis
+      - nielstron
   - name: Staking Backend
     url: https://staking.muesliswap.com/health
+    assignees:
+      - TrimVis
+      - pcjordan
   - name: Tokens Backend
     url: https://tokens.muesliswap.com/health
+    assignees:
+      - TrimVis
+      - nielstron
   - name: Onchain Backend
     url: https://onchain.muesliswap.com/health
+    assignees:
+      - TrimVis
+      - nielstron
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -31,8 +46,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-assignees:
-  - TrimVis
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
