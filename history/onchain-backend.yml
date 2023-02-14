@@ -1,7 +1,7 @@
 url: https://onchain.muesliswap.com/health
-status: down
-code: 531
-responseTime: 651
-lastUpdated: 2023-02-14T13:15:28.206Z
+status: up
+code: 200
+responseTime: 1320
+lastUpdated: 2023-02-14T13:36:54.115Z
 startTime: Fri Jan 27 2023 16:46:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
