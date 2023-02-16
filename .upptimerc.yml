@@ -8,11 +8,13 @@ sites:
     assignees:
       - TrimVis
       - chris-r-99
+      - samuki
   - name: API Backend
     url: https://api.muesliswap.com/health
     assignees:
       - TrimVis
       - nielstron
+      - samuki
   - name: Staking Backend
     url: https://staking.muesliswap.com/health
     assignees:
@@ -23,6 +25,7 @@ sites:
     assignees:
       - TrimVis
       - nielstron
+      - samuki
   - name: Onchain Backend
     url: https://onchain.muesliswap.com/health
     assignees:
